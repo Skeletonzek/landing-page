@@ -1,0 +1,12 @@
+.header__title {
+    color: #fef8f1;
+    font-family: 'Champagne&Limousines', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: justify;
+    margin: 0;
+    padding: 12px 0 0 9px;
+}

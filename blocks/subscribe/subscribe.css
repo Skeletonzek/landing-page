@@ -1,0 +1,12 @@
+@import url(./__title/subscribe__title.css);
+@import url(./__form/subscribe__form.css);
+@import url(./__input/subscribe__input.css);
+@import url(./__submit/subscribe__submit.css);
+
+.subscribe {
+    min-height: 180px;
+    display: flex;
+    align-items: center;
+    background-image: url(../../images/subscribe__bckgrnd.png);
+    margin-top: 110px;
+}

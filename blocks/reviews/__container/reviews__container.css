@@ -1,0 +1,10 @@
+.reviews__container {
+    display: flex;
+    margin: 0 220px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.reviews__container:nth-of-type(n+2) {
+    margin-top: 70px;
+}

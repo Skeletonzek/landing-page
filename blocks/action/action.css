@@ -1,0 +1,12 @@
+@import url(./__img/action__img.css);
+@import url(./__img-shadow/action__img-shadow.css);
+@import url(./__container/action__container.css);
+@import url(./__title/action__title.css);
+@import url(./__text/action__text.css);
+@import url(./__button/action__button.css);
+
+.action {
+    min-height: 460px;
+    position: relative;
+    background-color: #f7f7f7
+}

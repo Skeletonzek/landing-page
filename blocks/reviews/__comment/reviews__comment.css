@@ -1,0 +1,14 @@
+.reviews__comment {
+    background-color: #f9f8f8;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 31px 23px 47px 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.reviews__comment:nth-of-type(n+4) {
+    margin-top: 70px;
+}

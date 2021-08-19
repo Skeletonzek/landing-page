@@ -1,0 +1,7 @@
+.action__container {
+    display: flex;
+    flex-direction: column;
+    width: 575px;
+    margin-left: 700px;
+    padding-top: 120px;
+}

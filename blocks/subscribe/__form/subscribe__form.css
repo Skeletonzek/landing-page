@@ -1,0 +1,7 @@
+.subscribe__form {
+    display: flex;
+    margin: 0;
+    width: 600px;
+    height: 60px;
+    position: relative;
+}

@@ -1,0 +1,24 @@
+.header__menu-link {
+    color: #fef8f1;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: right;
+    letter-spacing: 0.16px;
+    text-decoration: none;
+    margin-left: 28px;
+}
+
+.header__menu-link:hover {
+    opacity: .5;
+    transition: opacity 2s linear;
+    cursor: pointer;
+}
+
+.header__menu-link:active {
+   text-decoration-color: #fef8f1;
+   text-decoration-line: underline;
+}

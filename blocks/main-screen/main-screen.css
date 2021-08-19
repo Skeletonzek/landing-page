@@ -1,0 +1,11 @@
+@import url(./__title/main-screen__title.css);
+@import url(./__text/main-screen__text.css);
+
+.main-screen {
+    background-image: linear-gradient(rgba(236,161,81, .8), rgba(236,161,81, .8)), url(../../images/main-screen-img.jpg);
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

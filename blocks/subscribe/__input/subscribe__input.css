@@ -1,0 +1,42 @@
+.subscribe__input {
+    display: block;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 48px;
+    text-align: left;
+    border: 2px solid #e19646;
+    padding: 0 0 0 30px;
+    background-color: #ffffff;
+    width: 235px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+.subscribe__input:first-of-type {
+    border-right: 1px solid rgba(211,211,211, .7);
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+    left: 0;
+}
+
+.subscribe__input:last-of-type {
+    border-left: none;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 60px;
+    right: 0;
+    width: 365px;
+}
+
+.subscribe__input::placeholder {
+    opacity: .5;
+}
+
+.subscribe__input:focus {
+    outline: none;
+}

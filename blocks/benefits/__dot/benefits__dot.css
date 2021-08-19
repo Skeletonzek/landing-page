@@ -1,0 +1,9 @@
+.benefits__dot {
+    position: absolute;
+    top: -3px;
+    left: 550px;
+}
+
+.benefits__dot:last-of-type {
+    left: 930px;
+}

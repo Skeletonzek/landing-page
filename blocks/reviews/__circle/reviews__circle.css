@@ -1,0 +1,10 @@
+.reviews__circle {
+    width: 60px;
+    height: 60px;
+    background-color: #dedddd;
+    position: absolute;
+    bottom: -35px;
+    left: 235px;
+    border: 5px solid white;
+    border-radius: 60px;
+}

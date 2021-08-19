@@ -1,0 +1,16 @@
+@import url(./__brand/header__brand.css);
+@import url(./__logo/header__logo.css);
+@import url(./__title/header__title.css);
+@import url(./__menu/header__menu.css);
+@import url(./__menu-list/header__menu-list.css);
+@import url(./__menu-link/header__menu-link.css);
+
+.header {
+    min-height: 100px;
+    background-color: #f4c995;
+    /* При подключении opacity цвет не совпадает с макетом */
+    /* opacity: 0.3; */ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

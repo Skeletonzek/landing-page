@@ -1,0 +1,11 @@
+.benefits__list-imgbox {
+    width: 160px;
+    height: 160px;
+    background-image: url(../../../images/benefit-img-layer.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -80px;
+    border-radius: 80px;
+}

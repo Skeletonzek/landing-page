@@ -1,0 +1,13 @@
+@import url(./__stick/benefits__stick.css);
+@import url(./__dot/benefits__dot.css);
+@import url(./__list/benefits__list.css);
+@import url(./__list-el/benefits__list-el.css);
+@import url(./__list-imgbox/benefits__list-imgbox.css);
+@import url(./__list-img/benefits__list-img.css);
+@import url(./__list-title/benefits__list-title.css);
+@import url(./__list-text/benefits__list-text.css);
+
+.benefits {
+    min-height: 300px;
+    position: relative;
+}

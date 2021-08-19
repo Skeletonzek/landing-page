@@ -1,0 +1,12 @@
+.benefits__list-el {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: 230px;
+}
+
+.benefits__list-el:nth-of-type(n+5) {
+    margin-top: 80px;
+
+}

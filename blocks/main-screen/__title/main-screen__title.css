@@ -1,0 +1,14 @@
+.main-screen__title {
+    color: #ffffff;
+    font-family: "Lato";
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 0;
+}
